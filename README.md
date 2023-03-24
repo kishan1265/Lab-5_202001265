@@ -14,8 +14,8 @@ https://github.com/kishan1265/woc4.0-eventmanager-kishan.git
 
 
 ### Analyzing file: ./registration/views.py
+## Error 1 :-
 ![3](https://user-images.githubusercontent.com/97011040/227481410-c95c84cd-7e01-4e09-b5f6-42b7bc1c8881.png)
-
 
 ### After correcting errors :-
 ![4](https://user-images.githubusercontent.com/97011040/227481478-75d1758c-bc0c-48ba-91a9-9719f65eb55b.png)
@@ -45,5 +45,17 @@ Found 1 error in 1 file (errors prevented further checking)
 ![8](https://user-images.githubusercontent.com/97011040/227488770-729185ab-698b-4a1c-b6c6-5b9bb2c95487.png)
 
 error: unterminated string literal (detected at line 57) <br>
+Found 1 error in 1 file (errors prevented further checking)
+
+## Error 6 :-
+![9](https://user-images.githubusercontent.com/97011040/227492302-cdc41bdd-dee3-4ed5-a05d-0f87dcf46849.png)
+
+error: Name "Model" is not defined <br>
+Found 4 errors in 1 file (checked 1 source file)
+
+## Error 7 :-
+![10](https://user-images.githubusercontent.com/97011040/227493432-fa92e9ef-8e8a-4f17-9e08-eff04e64096f.png)
+
+error: invalid syntax. Perhaps you forgot a comma? <br>
 Found 1 error in 1 file (errors prevented further checking)
 
