@@ -34,3 +34,16 @@ Found 1 error in 1 file (errors prevented further checking)
 
 error: expected ':' <br>
 Found 1 error in 1 file (errors prevented further checking)
+
+## Error 4 :-
+![7](https://user-images.githubusercontent.com/97011040/227488197-33a04b12-20a6-4619-aec0-ce17d8d320fa.png)
+
+error: cannot assign to attribute here. Maybe you meant '==' instead of '='? <br>
+Found 1 error in 1 file (errors prevented further checking)
+
+## Error 5 :-
+![8](https://user-images.githubusercontent.com/97011040/227488770-729185ab-698b-4a1c-b6c6-5b9bb2c95487.png)
+
+error: unterminated string literal (detected at line 57) <br>
+Found 1 error in 1 file (errors prevented further checking)
+
