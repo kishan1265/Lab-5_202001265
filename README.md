@@ -47,6 +47,7 @@ Found 1 error in 1 file (errors prevented further checking)
 error: unterminated string literal (detected at line 57) <br>
 Found 1 error in 1 file (errors prevented further checking)
 
+### Analyzing file: ./registration/models.py
 ## Error 6 :-
 ![9](https://user-images.githubusercontent.com/97011040/227492302-cdc41bdd-dee3-4ed5-a05d-0f87dcf46849.png)
 
